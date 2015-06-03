@@ -10,3 +10,6 @@ void main(){
 void cosa(lectura_10bits){
 
 }
+
+void Blinky(IO_Pin da){
+}

@@ -15,4 +15,5 @@ void Blinky(IO_Pin da){
 }
 
 void LED_Branch(){
+	X = READ.DIO();
 }

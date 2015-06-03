@@ -6,3 +6,7 @@ void setup(){
 void main(){
 	print("cosa\n");
 }
+
+void cosa(){
+
+}

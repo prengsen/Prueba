@@ -7,6 +7,6 @@ void main(){
 	print("cosa\n");
 }
 
-void cosa(){
+void cosa(lectura_10bits){
 
 }

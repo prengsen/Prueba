@@ -1,0 +1,7 @@
+diff a/test.ino b/test.ino	(rejected hunks)
+@@ -0,0 +1,4 @@
++void setup(){
++	simon();
++	return void;
++}
+\ No newline at end of file

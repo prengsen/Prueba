@@ -1,7 +1,10 @@
 diff a/test.ino b/test.ino	(rejected hunks)
-@@ -0,0 +1,4 @@
-+void setup(){
-+	simon();
-+	return void;
+@@ -9,4 +9,7 @@
+ 
+ void cosa(lectura_10bits){
+ 
 +}
++
++void Blinky(IO_Pin da){
+ }
 \ No newline at end of file
